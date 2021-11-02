@@ -1,4 +1,7 @@
 # ShowTechEcommerce
+Projeto Frontend de um Sistema de Ecommerce - Desenvolvido com Angular.
+
+![](https://github.com/TulioliAles/Formulario-Clientes/blob/main/cad1.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
