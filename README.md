@@ -1,7 +1,7 @@
 # ShowTechEcommerce
 Projeto Frontend de um Sistema de Ecommerce - Desenvolvido com Angular.
 
-![](https://https://github.com/TulioliAles/ShowTechEcommerce/blob/main/Capturar.PNG)
+![](https://github.com/TulioliAles/ShowTechEcommerce/blob/main/Capturar.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
